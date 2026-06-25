@@ -3,7 +3,7 @@
 
 Welcome to my portfolio repository! This is a clean, single-page responsive website showcasing  skills, projects, and professional background.
 
-🎨 **Live Demo:** []
+🎨 **Live Demo:** [https://radhashyamgurugubelli.github.io/Editable_sample_portfolio/]
 
 ---
 
