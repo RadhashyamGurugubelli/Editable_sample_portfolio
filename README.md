@@ -15,7 +15,7 @@ Welcome to my portfolio repository! This is a clean, single-page responsive webs
 ## ✨ Features
 * **Responsive Design:** Fully optimized for mobile, tablet, and desktop screens.
 * **About Me:** A sample about me.
-* **Projects Showcase:** Highlights best work with direct links to live demos and repositories.
+* **Projects Showcase:** A sample pojects so, we can add images of that project.
 * **Contact Form/Links:** Accessible links to reach out to me via email or social media.
 
 ## 📁 File Structure
