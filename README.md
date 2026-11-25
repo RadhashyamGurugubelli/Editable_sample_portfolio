@@ -35,11 +35,5 @@ Welcome to my portfolio repository! This is a clean, single-page responsive webs
 ## 🌐 Deployment
 This portfolio is hosted for free using [GitHub Pages](https://pages.github.com/). 
 
-To deploy your own:
-1. Go to **Settings** in this repository.
-2. Click on **Pages** in the left sidebar.
-3. Under **Build and deployment**, set the Source branch to `main` (or `master`) and folder to `/root`.
-4. Click **Save** and wait a couple of minutes for your live URL to generate!
-
 ---
 🤝 *Feel free to check out my code, fork this repository, or connect with me!*
