@@ -1,5 +1,5 @@
 # Sample Portfolio 🚀
-## JUST A SAMPLE CODE -- HOW PORTFOLIO LOOK LIKE
+## JUST A SAMPLE CODE -- HOW PORTFOLIO LOOK LIKE 
 
 Welcome to my portfolio repository! This is a clean, single-page responsive website showcasing  skills, projects, and professional background.
 
@@ -14,7 +14,7 @@ Welcome to my portfolio repository! This is a clean, single-page responsive webs
 
 ## ✨ Features
 * **Responsive Design:** Fully optimized for mobile, tablet, and desktop screens.
-* **About Me:** A sample about me.
+* **About Me:** A sample about me (just a sample) .
 * **Projects Showcase:** A sample pojects so, we can add images of that project.
 * **Contact Form/Links:** Accessible links to reach out to me via email or social media.
 
